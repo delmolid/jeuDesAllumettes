@@ -16,7 +16,6 @@ button1.onclick = function() {
 
 button2.onclick = function() {
     nombreJoueurs = 2;
-    demarrerJeu();
     compteur();
 };
 
