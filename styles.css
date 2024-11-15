@@ -1,0 +1,64 @@
+#text {
+background-color: black;
+background-size:center
+;
+color : blanchedalmond;
+margin: auto;
+padding: 10px;
+width: 80%;
+text-align: center;   /* Alignement */
+font-size: 20px; /* taille Police */
+font-family: initial; /* Police */
+}
+
+ #button1 {
+    cursor: pointer;
+    color: black;
+    background-color: blanchedalmond;
+    background-image: linear-gradient(rgb(20, 91, 99));
+    border: 3px solid #0a0a23;
+    padding: 5px;
+    max-width: 500px;
+    max-height: 400px;
+    display: inline-table;
+    margin-top: 20%;
+    margin-bottom: 20px;
+    margin-left: 100px;
+  }
+  #button2 {
+    cursor: pointer;
+    color: black;
+    background-color: blanchedalmond;
+    background-image: linear-gradient(rgb(20, 91, 99));
+    border: 3px solid #0a0a23;
+    padding: 5px;
+    max-width: 500px;
+    max-height: 400px;
+    display: inline-table;
+    margin-top: 20%;
+    margin-bottom: 20px;
+    margin-left: 100px;
+  }
+  #button3 {
+    cursor: pointer;
+    color: black;
+    background-color: blanchedalmond;
+    background-image: linear-gradient(rgb(20, 91, 99));
+    border: 3px solid #0a0a23;
+    padding: 5px;
+    max-width: 500px;
+    max-height: 400px;
+    display: inline-table;
+    margin-top: 20%;
+    margin-bottom: 20px;
+    margin-left: 100px;
+  }
+  aside {
+    /* background-color: var(--secondary-color); */
+    flex: 0 0 50%; /*Largeur fixe de 50%*/
+    padding: 20px;
+    height: auto; /* Ajuster la hauteur automatiquement */
+    /* background-color: rgba(112, 104, 18, 0.2); */
+    /* backdrop-filter: blur(10px); */
+     border: 1px solid rgba(255, 255, 255, 0.3); 
+}
