@@ -1,26 +1,4 @@
-/*let totalallumettes = 50;
-function compteur(){
-    let nballumettesUtilisateur1 = prompt("Joueur 1 : Retirer des allumettes : vous avez droit à 1 à 6 allumettes")
-    let nballumettesUtilisateur2 = prompt("Joueur 2 : Retirer des allumettes : vous avez droit à 1 à 6 allumettes ")
-if (nballumettesUtilisateur1 < 1 || nballumettesUtilisateur1 > 6 ||  nballumettesUtilisateur2 < 1 || nballumettesUtilisateur2 > 6) { 
-    alert("Le nombre d’allumettes à pouvoir être retirées est : 1 à 6 : Recommencer")
-    compteur();
-
-} else {
-    totalallumettes = totalallumettes - nballumettesUtilisateur1 
-    totalallumettes = totalallumettes - nballumettesUtilisateur2
-    console.log(totalallumettes)
-   while(totalallumettes>0){
-        alert("Nombre d'allumettes restantes : " + totalallumettes)
-        compteur();
-}
-         alert("Il ne reste plus des allumettes, Feu de jeu");
-} }
-compteur(); 
-*/
-
-
-
+// Déclaration des variables totalAllumettes et nombreJoueurs 
 let totalAllumettes = 50;
 let nombreJoueurs = 0;
 
